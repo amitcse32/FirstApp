@@ -7,6 +7,7 @@
 
 
     <EditText
+        android:text="Amit Sharma"
         android:id="@+id/textViewData1"
         android:hint="Enter Value"
         android:layout_width="match_parent"
